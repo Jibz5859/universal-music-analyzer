@@ -2,3 +2,5 @@
 "data/"   # If data is large
 "outputs/" 
 "__pycache__/" 
+"__pycache__/" 
+"*.pyc" 
