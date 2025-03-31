@@ -1,2 +1,4 @@
 "outputs/" 
 "data/"   # If data is large
+"outputs/" 
+"__pycache__/" 
