@@ -1,0 +1,29 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is CC77-8F3A
+
+ Directory of C:\Users\jibin\OneDrive\Desktop\python_projects\newproject\outputs
+
+01/04/2025  11:45 AM            47,518 sine_wave_20250401_114500.png
+01/04/2025  11:45 AM    <DIR>          .
+01/04/2025  11:44 AM    <DIR>          ..
+01/04/2025  11:35 AM            47,518 sine_wave_20250401_113508.png
+01/04/2025  11:29 AM            47,518 sine_wave_20250401_112938.png
+01/04/2025  11:14 AM            47,518 sine_wave_20250401_111459.png
+01/04/2025  11:08 AM            47,518 sine_wave_20250401_110835.png
+01/04/2025  11:02 AM            28,205 sine_wave_20250401_110256.png
+               6 File(s)        265,795 bytes
+               2 Dir(s)  131,404,722,176 bytes free
+
+=== SYSTEM CHECK ===
+Python: C:\Users\jibin\anaconda3\envs\newproject\python.exe
+Project Root: C:\Users\jibin\OneDrive\Desktop\python_projects\newproject
+Output Dir: C:\Users\jibin\OneDrive\Desktop\python_projects\newproject\outputs
+Directory Writable: True
+
+NOTE: Output directory is in OneDrive - sync may cause delays
+
+SUCCESS! Plot saved to:
+C:\Users\jibin\OneDrive\Desktop\python_projects\newproject\outputs\sine_wave_20250401_114500.png
+File size: 46.4 KB
+
+VERIFICATION:

@@ -1,0 +1,10 @@
+setup.py
+src/newproject/__init__.py
+src/newproject.egg-info/PKG-INFO
+src/newproject.egg-info/SOURCES.txt
+src/newproject.egg-info/dependency_links.txt
+src/newproject.egg-info/requires.txt
+src/newproject.egg-info/top_level.txt
+src/newproject/scripts/__init__.py
+src/newproject/scripts/__version__.py
+src/newproject/scripts/test_plot.py
